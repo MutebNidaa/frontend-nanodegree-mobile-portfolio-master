@@ -55,4 +55,5 @@ frist loop Iterates through pizza elements on the page and secand loop can be ch
 4. function updatePositions created scrollTop and phase variable outside the loop
 5. addEventListener create elem and movingPizzas variables outsidevar the loop and change movingPizzas document from 
 (querySelector) to (getElementById)
+
 See live demo [here](https://rkrktktk15.000webhostapp.com/p7/p7/index.html)
