@@ -535,6 +535,7 @@ function updatePositions() {
 window.addEventListener('scroll', updatePositions);
 
 // Generates the sliding pizzas when the page loads.
+//create new variables outside the loop and change document from (querySelector) to (getElementById)
 var elem
 var movingPizzas = document.getElementById('movingPizzas1')
 document.addEventListener('DOMContentLoaded', function() {
