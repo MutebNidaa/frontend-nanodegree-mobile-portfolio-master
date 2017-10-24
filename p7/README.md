@@ -49,9 +49,10 @@ You might find the FPS Counter/HUD Display useful in Chrome developer tools desc
 
 ### What I did for main.js
 1. change document from (querySelector) to (getElementById) the function changeSliderLabel
-2.  function changePizzaSizes creact naw array and variables outside the loop and creact two loop 
+2. function changePizzaSizes creact naw array and variables outside the loop and creact two loop 
 frist loop Iterates through pizza elements on the page and secand loop can be changes their widths
 3. created pizzasDiv variable outside the loop 
 4. function updatePositions created scrollTop and phase variable outside the loop
-
+5. addEventListener create elem and movingPizzas variables outsidevar the loop and change movingPizzas document from 
+(querySelector) to (getElementById)
 See live demo [here](https://rkrktktk15.000webhostapp.com/p7/p7/index.html)
